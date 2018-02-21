@@ -15,3 +15,27 @@ Languages:
   
   Framework:
     - code igniter
+ 
+ Ryan:
+  - Create new blog
+  - Manage blogs
+  - Main blog page
+ 
+ Mike:
+  - User registration
+  - User login
+  - User profile page
+  - Admin page
+
+Security:
+  - SSL encryption (all pages)
+  - All forms validated
+  - Passwords salted/hashed
+  - Avatar uploads (img only)
+  - Protect against:
+    - SQL injection
+    - XSS
+    - CSRF
+    - Open redirects
+  - Account lock after 5 failed attempts
+  - Encrypt using strong algorithms
