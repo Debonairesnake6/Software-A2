@@ -42,6 +42,7 @@ Languages:
     - Valid email
     - Valid password
     - Activation link (Only need to log)
+    - Need admin aproval
   - User login
     - Send to blog management page
     - Forgot my password
@@ -51,6 +52,7 @@ Languages:
     - Change basic details
     - Re-authentication to change password
   - Admin page
+    - Create, edit, approve, delete users
 
 Security:
   - SSL encryption (all pages)
