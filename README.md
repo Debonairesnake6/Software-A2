@@ -41,7 +41,7 @@ Languages:
     - Unique username
     - Valid email
     - Valid password
-    - Activation link
+    - Activation link (Only need to log)
   - User login
     - Send to blog management page
     - Forgot my password
