@@ -9,6 +9,8 @@ https://www.phpclasses.org/blog/package/10087/post/1-secure-login-and-registrati
 
 http://codingcyber.org/simple-login-script-php-and-mysql-64/
 
+https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php
+
 Languages:
   - php
   - mysql
