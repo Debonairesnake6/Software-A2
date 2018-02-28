@@ -1,6 +1,8 @@
 # Software-A2
 Secure Blog Assignment
 
+HTML5: https://www.styleshout.com/category-template/blog/
+
 http://software-developer.epizy.com/
 
 https://daveismyname.blog/creating-a-blog-from-scratch-with-php
