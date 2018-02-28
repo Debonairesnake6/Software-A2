@@ -13,6 +13,12 @@ https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php
 
 https://blog.synapsefi.com/updates/security-blog-php
 
+https://clevertechie.com/php/19/php-user-registration-form-mysql
+
+http://mysqltutorial.org/php-mysql/php-mysql-blob/
+
+http://www.codingcage.com/2016/02/upload-insert-update-delete-image-using.html
+
 Languages:
   - php
   - mysql
