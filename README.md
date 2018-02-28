@@ -1,6 +1,28 @@
 # Software-A2
 Secure Blog Assignment
 
+DATABASE CALLED: epiz_21653868_blog
+
+CREATE TABLE IF NOT EXISTS users (
+userid int(11) NOT NULL AUTO_INCREMENT,
+username varchar (30) NOT NULL,
+email varchar(300) NOT NULL UNIQUE,
+password varchar(300) NOT NULL,
+activation varchar(300) NOT NULL UNIQUE,
+status enum('0','1') NOT NULL DEFAULT '0',
+PRIMARY KEY (uid)
+); 
+
+CREATE TABLE IF NOT EXISTS blog (
+postid int(11) NOT NULL AUTO_INCREMENT,
+title varchar (30) NOT NULL,
+description varchar(300) NOT NULL UNIQUE,
+content varchar(300) NOT NULL,
+userid  int(11) NOT NULL,
+PRIMARY KEY (postid),
+FOREIGN KEY (userid)
+); 
+
 HTML5: https://www.styleshout.com/category-template/blog/
 
 http://software-developer.epizy.com/
