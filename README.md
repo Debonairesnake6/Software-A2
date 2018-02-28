@@ -11,6 +11,8 @@ http://codingcyber.org/simple-login-script-php-and-mysql-64/
 
 https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php
 
+https://blog.synapsefi.com/updates/security-blog-php
+
 Languages:
   - php
   - mysql
