@@ -49,6 +49,12 @@ Languages:
     - Visitors can view summary
     - Click post for detailed view
     - Show author and avatar
+  - Blog table
+    - PostID
+    - UserID
+    - PostTitle
+    - PostDesc
+    - PostCont
  
  Mike:
   - User registration
